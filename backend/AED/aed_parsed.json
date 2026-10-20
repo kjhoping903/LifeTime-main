@@ -1,0 +1,618 @@
+[
+  {
+    "facility_type": "aed",
+    "source_id": "079-250713-195282",
+    "name": "서울양천경찰서 목1지구대",
+    "address": "서울특별시 양천구 목동동로 373, 목1지구대 (목동)",
+    "latitude": 37.535155935841004,
+    "longitude": 126.87845807537401,
+    "installation_detail": "목1지구대 1층",
+    "contact_phone": "02-2648-0040",
+    "schedule_status": "known",
+    "access_hours": [
+      {
+        "weekday": 1,
+        "opens_at": "00:00",
+        "closes_at": "00:00",
+        "ends_next_day": true,
+        "is_24_hours": true
+      },
+      {
+        "weekday": 2,
+        "opens_at": "00:00",
+        "closes_at": "00:00",
+        "ends_next_day": true,
+        "is_24_hours": true
+      },
+      {
+        "weekday": 3,
+        "opens_at": "00:00",
+        "closes_at": "00:00",
+        "ends_next_day": true,
+        "is_24_hours": true
+      },
+      {
+        "weekday": 4,
+        "opens_at": "00:00",
+        "closes_at": "00:00",
+        "ends_next_day": true,
+        "is_24_hours": true
+      },
+      {
+        "weekday": 5,
+        "opens_at": "00:00",
+        "closes_at": "00:00",
+        "ends_next_day": true,
+        "is_24_hours": true
+      },
+      {
+        "weekday": 6,
+        "opens_at": "00:00",
+        "closes_at": "00:00",
+        "ends_next_day": true,
+        "is_24_hours": true
+      },
+      {
+        "weekday": 7,
+        "opens_at": "00:00",
+        "closes_at": "00:00",
+        "ends_next_day": true,
+        "is_24_hours": true
+      }
+    ],
+    "source_name": "국립중앙의료원"
+  },
+  {
+    "facility_type": "aed",
+    "source_id": "079-250713-195287",
+    "name": "서울양천경찰서 목2지구대",
+    "address": "서울특별시 양천구 등촌로 166, 목2지구대 (목동)",
+    "latitude": 37.544527409853,
+    "longitude": 126.86236441659402,
+    "installation_detail": "목2지구대 1층",
+    "contact_phone": "02-2652-0112",
+    "schedule_status": "known",
+    "access_hours": [
+      {
+        "weekday": 1,
+        "opens_at": "00:00",
+        "closes_at": "00:00",
+        "ends_next_day": true,
+        "is_24_hours": true
+      },
+      {
+        "weekday": 2,
+        "opens_at": "00:00",
+        "closes_at": "00:00",
+        "ends_next_day": true,
+        "is_24_hours": true
+      },
+      {
+        "weekday": 3,
+        "opens_at": "00:00",
+        "closes_at": "00:00",
+        "ends_next_day": true,
+        "is_24_hours": true
+      },
+      {
+        "weekday": 4,
+        "opens_at": "00:00",
+        "closes_at": "00:00",
+        "ends_next_day": true,
+        "is_24_hours": true
+      },
+      {
+        "weekday": 5,
+        "opens_at": "00:00",
+        "closes_at": "00:00",
+        "ends_next_day": true,
+        "is_24_hours": true
+      },
+      {
+        "weekday": 6,
+        "opens_at": "00:00",
+        "closes_at": "00:00",
+        "ends_next_day": true,
+        "is_24_hours": true
+      },
+      {
+        "weekday": 7,
+        "opens_at": "00:00",
+        "closes_at": "00:00",
+        "ends_next_day": true,
+        "is_24_hours": true
+      }
+    ],
+    "source_name": "국립중앙의료원"
+  },
+  {
+    "facility_type": "aed",
+    "source_id": "080-250713-195289",
+    "name": "서울양천경찰서 신정1지구대",
+    "address": "서울특별시 양천구 중앙로32길 65, 신정1지구대 (신정동)",
+    "latitude": 37.52029970796351,
+    "longitude": 126.86076812327602,
+    "installation_detail": "신정1지구대 우측벽면",
+    "contact_phone": "02-2643-0113",
+    "schedule_status": "known",
+    "access_hours": [
+      {
+        "weekday": 1,
+        "opens_at": "00:00",
+        "closes_at": "00:00",
+        "ends_next_day": true,
+        "is_24_hours": true
+      },
+      {
+        "weekday": 2,
+        "opens_at": "00:00",
+        "closes_at": "00:00",
+        "ends_next_day": true,
+        "is_24_hours": true
+      },
+      {
+        "weekday": 3,
+        "opens_at": "00:00",
+        "closes_at": "00:00",
+        "ends_next_day": true,
+        "is_24_hours": true
+      },
+      {
+        "weekday": 4,
+        "opens_at": "00:00",
+        "closes_at": "00:00",
+        "ends_next_day": true,
+        "is_24_hours": true
+      },
+      {
+        "weekday": 5,
+        "opens_at": "00:00",
+        "closes_at": "00:00",
+        "ends_next_day": true,
+        "is_24_hours": true
+      },
+      {
+        "weekday": 6,
+        "opens_at": "00:00",
+        "closes_at": "00:00",
+        "ends_next_day": true,
+        "is_24_hours": true
+      },
+      {
+        "weekday": 7,
+        "opens_at": "00:00",
+        "closes_at": "00:00",
+        "ends_next_day": true,
+        "is_24_hours": true
+      }
+    ],
+    "source_name": "국립중앙의료원"
+  },
+  {
+    "facility_type": "aed",
+    "source_id": "080-250713-195291",
+    "name": "서울양천경찰서 신정1지구대",
+    "address": "서울특별시 양천구 중앙로32길 65, 신정1지구대 (신정동)",
+    "latitude": 37.51151537725541,
+    "longitude": 126.86887565822698,
+    "installation_detail": "신정7치안센터 좌측 벽면",
+    "contact_phone": "02-2643-0113",
+    "schedule_status": "partial",
+    "access_hours": [
+      {
+        "weekday": 1,
+        "opens_at": "09:00",
+        "closes_at": "18:00",
+        "ends_next_day": false,
+        "is_24_hours": false
+      },
+      {
+        "weekday": 2,
+        "opens_at": "09:00",
+        "closes_at": "18:00",
+        "ends_next_day": false,
+        "is_24_hours": false
+      },
+      {
+        "weekday": 3,
+        "opens_at": "09:00",
+        "closes_at": "18:00",
+        "ends_next_day": false,
+        "is_24_hours": false
+      },
+      {
+        "weekday": 4,
+        "opens_at": "09:00",
+        "closes_at": "18:00",
+        "ends_next_day": false,
+        "is_24_hours": false
+      },
+      {
+        "weekday": 5,
+        "opens_at": "09:00",
+        "closes_at": "18:00",
+        "ends_next_day": false,
+        "is_24_hours": false
+      }
+    ],
+    "source_name": "국립중앙의료원"
+  },
+  {
+    "facility_type": "aed",
+    "source_id": "080-250713-195294",
+    "name": "서울양천경찰서 신정2지구대",
+    "address": "서울특별시 양천구 목동로17길 5, 신정2지구대 (신정동)",
+    "latitude": 37.5244524591257,
+    "longitude": 126.86357578370301,
+    "installation_detail": "신정2지구대 1층",
+    "contact_phone": "02-879-8843",
+    "schedule_status": "known",
+    "access_hours": [
+      {
+        "weekday": 1,
+        "opens_at": "00:00",
+        "closes_at": "00:00",
+        "ends_next_day": true,
+        "is_24_hours": true
+      },
+      {
+        "weekday": 2,
+        "opens_at": "00:00",
+        "closes_at": "00:00",
+        "ends_next_day": true,
+        "is_24_hours": true
+      },
+      {
+        "weekday": 3,
+        "opens_at": "00:00",
+        "closes_at": "00:00",
+        "ends_next_day": true,
+        "is_24_hours": true
+      },
+      {
+        "weekday": 4,
+        "opens_at": "00:00",
+        "closes_at": "00:00",
+        "ends_next_day": true,
+        "is_24_hours": true
+      },
+      {
+        "weekday": 5,
+        "opens_at": "00:00",
+        "closes_at": "00:00",
+        "ends_next_day": true,
+        "is_24_hours": true
+      },
+      {
+        "weekday": 6,
+        "opens_at": "00:00",
+        "closes_at": "00:00",
+        "ends_next_day": true,
+        "is_24_hours": true
+      },
+      {
+        "weekday": 7,
+        "opens_at": "00:00",
+        "closes_at": "00:00",
+        "ends_next_day": true,
+        "is_24_hours": true
+      }
+    ],
+    "source_name": "국립중앙의료원"
+  },
+  {
+    "facility_type": "aed",
+    "source_id": "079-250713-195296",
+    "name": "서울양천경찰서 신월1파출소",
+    "address": "서울특별시 양천구 남부순환로59길 8 (신월동)",
+    "latitude": 37.5320545919305,
+    "longitude": 126.832251816573,
+    "installation_detail": "신월1파출소 입구",
+    "contact_phone": "02-2602-0092",
+    "schedule_status": "known",
+    "access_hours": [
+      {
+        "weekday": 1,
+        "opens_at": "00:00",
+        "closes_at": "00:00",
+        "ends_next_day": true,
+        "is_24_hours": true
+      },
+      {
+        "weekday": 2,
+        "opens_at": "00:00",
+        "closes_at": "00:00",
+        "ends_next_day": true,
+        "is_24_hours": true
+      },
+      {
+        "weekday": 3,
+        "opens_at": "00:00",
+        "closes_at": "00:00",
+        "ends_next_day": true,
+        "is_24_hours": true
+      },
+      {
+        "weekday": 4,
+        "opens_at": "00:00",
+        "closes_at": "00:00",
+        "ends_next_day": true,
+        "is_24_hours": true
+      },
+      {
+        "weekday": 5,
+        "opens_at": "00:00",
+        "closes_at": "00:00",
+        "ends_next_day": true,
+        "is_24_hours": true
+      },
+      {
+        "weekday": 6,
+        "opens_at": "00:00",
+        "closes_at": "00:00",
+        "ends_next_day": true,
+        "is_24_hours": true
+      },
+      {
+        "weekday": 7,
+        "opens_at": "00:00",
+        "closes_at": "00:00",
+        "ends_next_day": true,
+        "is_24_hours": true
+      }
+    ],
+    "source_name": "국립중앙의료원"
+  },
+  {
+    "facility_type": "aed",
+    "source_id": "080-250713-195299",
+    "name": "서울양천경찰서 신월2지구대",
+    "address": "서울특별시 양천구 지양로 22",
+    "latitude": 37.5186321794455,
+    "longitude": 126.83745948761198,
+    "installation_detail": "신월2지구대 소내",
+    "contact_phone": "02-2652-0112",
+    "schedule_status": "known",
+    "access_hours": [
+      {
+        "weekday": 1,
+        "opens_at": "00:00",
+        "closes_at": "00:00",
+        "ends_next_day": true,
+        "is_24_hours": true
+      },
+      {
+        "weekday": 2,
+        "opens_at": "00:00",
+        "closes_at": "00:00",
+        "ends_next_day": true,
+        "is_24_hours": true
+      },
+      {
+        "weekday": 3,
+        "opens_at": "00:00",
+        "closes_at": "00:00",
+        "ends_next_day": true,
+        "is_24_hours": true
+      },
+      {
+        "weekday": 4,
+        "opens_at": "00:00",
+        "closes_at": "00:00",
+        "ends_next_day": true,
+        "is_24_hours": true
+      },
+      {
+        "weekday": 5,
+        "opens_at": "00:00",
+        "closes_at": "00:00",
+        "ends_next_day": true,
+        "is_24_hours": true
+      },
+      {
+        "weekday": 6,
+        "opens_at": "00:00",
+        "closes_at": "00:00",
+        "ends_next_day": true,
+        "is_24_hours": true
+      },
+      {
+        "weekday": 7,
+        "opens_at": "00:00",
+        "closes_at": "00:00",
+        "ends_next_day": true,
+        "is_24_hours": true
+      }
+    ],
+    "source_name": "국립중앙의료원"
+  },
+  {
+    "facility_type": "aed",
+    "source_id": "079-250713-195301",
+    "name": "서울양천경찰서신월5파출소",
+    "address": "서울특별시 양천구 남부순환로31길 37, 신월5동치안센터 (신월동)",
+    "latitude": 37.5390738299023,
+    "longitude": 126.830673512582,
+    "installation_detail": "신월5파출소 1층",
+    "contact_phone": "02-879-8884",
+    "schedule_status": "known",
+    "access_hours": [
+      {
+        "weekday": 1,
+        "opens_at": "00:00",
+        "closes_at": "00:00",
+        "ends_next_day": true,
+        "is_24_hours": true
+      },
+      {
+        "weekday": 2,
+        "opens_at": "00:00",
+        "closes_at": "00:00",
+        "ends_next_day": true,
+        "is_24_hours": true
+      },
+      {
+        "weekday": 3,
+        "opens_at": "00:00",
+        "closes_at": "00:00",
+        "ends_next_day": true,
+        "is_24_hours": true
+      },
+      {
+        "weekday": 4,
+        "opens_at": "00:00",
+        "closes_at": "00:00",
+        "ends_next_day": true,
+        "is_24_hours": true
+      },
+      {
+        "weekday": 5,
+        "opens_at": "00:00",
+        "closes_at": "00:00",
+        "ends_next_day": true,
+        "is_24_hours": true
+      },
+      {
+        "weekday": 6,
+        "opens_at": "00:00",
+        "closes_at": "00:00",
+        "ends_next_day": true,
+        "is_24_hours": true
+      },
+      {
+        "weekday": 7,
+        "opens_at": "00:00",
+        "closes_at": "00:00",
+        "ends_next_day": true,
+        "is_24_hours": true
+      }
+    ],
+    "source_name": "국립중앙의료원"
+  },
+  {
+    "facility_type": "aed",
+    "source_id": "079-250713-195302",
+    "name": "서울양천경찰서신월5파출소",
+    "address": "서울특별시 양천구 남부순환로31길 37, 신월5동치안센터 (신월동)",
+    "latitude": 37.5390738299023,
+    "longitude": 126.830673512582,
+    "installation_detail": "순찰차 내부",
+    "contact_phone": "02-879-8884",
+    "schedule_status": "known",
+    "access_hours": [
+      {
+        "weekday": 1,
+        "opens_at": "00:00",
+        "closes_at": "00:00",
+        "ends_next_day": true,
+        "is_24_hours": true
+      },
+      {
+        "weekday": 2,
+        "opens_at": "00:00",
+        "closes_at": "00:00",
+        "ends_next_day": true,
+        "is_24_hours": true
+      },
+      {
+        "weekday": 3,
+        "opens_at": "00:00",
+        "closes_at": "00:00",
+        "ends_next_day": true,
+        "is_24_hours": true
+      },
+      {
+        "weekday": 4,
+        "opens_at": "00:00",
+        "closes_at": "00:00",
+        "ends_next_day": true,
+        "is_24_hours": true
+      },
+      {
+        "weekday": 5,
+        "opens_at": "00:00",
+        "closes_at": "00:00",
+        "ends_next_day": true,
+        "is_24_hours": true
+      },
+      {
+        "weekday": 6,
+        "opens_at": "00:00",
+        "closes_at": "00:00",
+        "ends_next_day": true,
+        "is_24_hours": true
+      },
+      {
+        "weekday": 7,
+        "opens_at": "00:00",
+        "closes_at": "00:00",
+        "ends_next_day": true,
+        "is_24_hours": true
+      }
+    ],
+    "source_name": "국립중앙의료원"
+  },
+  {
+    "facility_type": "aed",
+    "source_id": "065-250718-195399",
+    "name": "반포리체아파트",
+    "address": "서울특별시 서초구 고무래로 35 (반포동, 반포리체아파트)",
+    "latitude": 37.504467489825,
+    "longitude": 127.012454510399,
+    "installation_detail": "보안실",
+    "contact_phone": "5960346",
+    "schedule_status": "known",
+    "access_hours": [
+      {
+        "weekday": 1,
+        "opens_at": "00:00",
+        "closes_at": "00:00",
+        "ends_next_day": true,
+        "is_24_hours": true
+      },
+      {
+        "weekday": 2,
+        "opens_at": "00:00",
+        "closes_at": "00:00",
+        "ends_next_day": true,
+        "is_24_hours": true
+      },
+      {
+        "weekday": 3,
+        "opens_at": "00:00",
+        "closes_at": "00:00",
+        "ends_next_day": true,
+        "is_24_hours": true
+      },
+      {
+        "weekday": 4,
+        "opens_at": "00:00",
+        "closes_at": "00:00",
+        "ends_next_day": true,
+        "is_24_hours": true
+      },
+      {
+        "weekday": 5,
+        "opens_at": "00:00",
+        "closes_at": "00:00",
+        "ends_next_day": true,
+        "is_24_hours": true
+      },
+      {
+        "weekday": 6,
+        "opens_at": "00:00",
+        "closes_at": "00:00",
+        "ends_next_day": true,
+        "is_24_hours": true
+      },
+      {
+        "weekday": 7,
+        "opens_at": "00:00",
+        "closes_at": "00:00",
+        "ends_next_day": true,
+        "is_24_hours": true
+      }
+    ],
+    "source_name": "국립중앙의료원"
+  }
+]
